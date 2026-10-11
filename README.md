@@ -1,8 +1,9 @@
-# Medical-Practice-Management-Database-using-SQL-Server
-## Overview
-Built a relational healthcare management database using SQL Server
+# Medical Practice Database Project
 
-The database stores:  
+## Overview
+
+Developed a healthcare database using SQL Server to manage:
+  
 - Patients  
 - Practitioners  
 - Appointments  
@@ -11,7 +12,7 @@ The database stores:
 
 ## Skills Demonstrated      
 - SQL Server  
-- Data Modeling  
+- Data Modelling  
 - Data Cleaning  
 - ETL  
 - Database Normalization  
