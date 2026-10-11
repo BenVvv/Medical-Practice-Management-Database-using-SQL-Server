@@ -2,9 +2,9 @@
 Built a relational healthcare management database using SQL Server
 The database stores:
 
-Patients
+Patients  
 Practitioners
-Appointments
+Appointments  
 Availability
 Practitioner Types
 Skills Demonstrated
