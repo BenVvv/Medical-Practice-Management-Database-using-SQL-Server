@@ -1,12 +1,14 @@
 # Medical-Practice-Management-Database-using-SQL-Server
+## Overview
 Built a relational healthcare management database using SQL Server
-The database stores:
 
-Patients  
-Practitioners  
-Appointments    
-Availability  
-Practitioner Types  
+The database stores:
+Patients
+Practitioners
+Appointments
+Availability
+Practitioner Types
+
 Skills Demonstrated  
 SQL Server  
 Data Modeling  
