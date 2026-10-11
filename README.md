@@ -2,12 +2,12 @@
 ## Overview
 Built a relational healthcare management database using SQL Server
 
-The database stores:
-Patients
-Practitioners
-Appointments
-Availability
-Practitioner Types
+The database stores:  
+- Patients  
+- Practitioners  
+- Appointments  
+- Availability  
+- Practitioner Types  
 
 Skills Demonstrated  
 SQL Server  
@@ -36,3 +36,6 @@ Example Outputs
 
 Business Value
 Provides a scalable appointment management system that demonstrates practical database administration and reporting skills.
+
+
+
