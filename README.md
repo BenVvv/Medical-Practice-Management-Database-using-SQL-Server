@@ -3,15 +3,15 @@ Built a relational healthcare management database using SQL Server
 The database stores:
 
 Patients  
-Practitioners
-Appointments  
-Availability
-Practitioner Types
-Skills Demonstrated
-SQL Server
-Data Modeling
-Data Cleaning
-ETL
+Practitioners  
+Appointments    
+Availability  
+Practitioner Types  
+Skills Demonstrated  
+SQL Server  
+Data Modeling  
+Data Cleaning  
+ETL  
 Database Normalization
 Views
 Stored Procedures
